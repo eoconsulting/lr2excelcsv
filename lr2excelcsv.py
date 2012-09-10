@@ -2,6 +2,7 @@
 ############################################################################################
 #
 #    Liferay CSV export to Excel CSV format.
+#    Also replace all the CR / CRLF by blank spaces.
 #
 #    Copyright (C) 2012 Enterprise Objects Consulting <http://www.eoconsulting.com.ar>
 #    All Rights Reserved

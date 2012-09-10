@@ -1,0 +1,11 @@
+# Ignore byte compiled files
+*.pyc
+*.log
+
+# Ignore Eclipse IDE files
+.settings
+.project
+.pydevproject
+
+# Ignore CSV files
+*.csv
